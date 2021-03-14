@@ -1,0 +1,15 @@
+{
+  "name": "com.chinchillada.expressions",
+  "version": "1.0.0",
+  "displayName": "Chinchillada Expressions",
+  "unity": "2020.2",
+  "unityRelease": "0f1",
+  "dependencies": {
+  },
+  "keywords": [],
+  "author": {
+    "name": "Jordy van Opstal",
+    "email": "jordy_van_opstal@live.nl",
+    "url": "https://jordyvanopstal.com/"
+  }
+}
